@@ -1,6 +1,7 @@
 {
     "version": "v5.3",
-    "download_url": "https://github.com/DZTic/Time-Rush-Updater/releases/download/TimeRush/Time.Rush.-.Windows.zip"
+    "download_url": "https://github.com/DZTic/Time-Rush-Updater/releases/download/TimeRush/Time.Rush.-.Windows.zip",
+    "download_url_linux": "https://url-vers-le-zip-linux.zip"
 }
 
 
